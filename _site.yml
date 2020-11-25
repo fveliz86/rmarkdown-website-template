@@ -7,15 +7,16 @@ navbar:
     - text: "Home"
       icon: fa-home
       href: index.html
+    - text: "TP ST"
+      icon: fa-home
+      href: tp_st.html
     - text: "About"
       icon: fa-user 
       href: about.html
     - text: "CV"
       icon: fa-file-pdf-o
       href: cv.html
-    - text: "Blog"
-      icon: fa-rss
-      href: https://YOURGITHUB.github.io/blog/  # CHANGE HERE OR DELETE ALL 3 LINES 
+
   right:
     - text: "Contact me"
       icon: fa-envelope-o
