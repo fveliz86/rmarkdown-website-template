@@ -1,7 +1,7 @@
-name: "YOURNAME"                                # CHANGE HERE 
+name: "Fernando Véliz"                                # CHANGE HERE 
 output_dir: "."
 navbar:
-  title: "YOURNAME"                             # CHANGE HERE 
+  title: "Fernando Véliz"                             # CHANGE HERE 
   type: inverse
   left:
     - text: "Home"
@@ -15,12 +15,12 @@ navbar:
       href: cv.html
 
   right:
-    - text: "Contact me"
+    - text: "Contacto"
       icon: fa-envelope-o
-      href: mailto:YOUREMAIL                    # CHANGE HERE 
+      href: mailto:fveliz86@gmail.com                    # CHANGE HERE 
     - text: "GitHub"
       icon: fa-github
-      href: https://github.com/YOURGITHUB       # CHANGE HERE 
+      href: https://github.com/fveliz86/ds       # CHANGE HERE 
 output:
   html_document:
     theme: cosmo
