@@ -2,10 +2,7 @@
 title: "CV"
 ---
 
-<a href="CV.pdf#" class="download" title="Download CV as PDF">Download CV</a>			
-
 ## Seleccionar idioma
 
-* <a href="Véliz, Fernando - CV.pdf#" class="download" title="Castellano">Castellano</a>		
-* <a href="Veliz, Fernando - CV (Eng).pdf" class="download" title="English">English</a>		
-* <a href="CV.pdf" class="download" title="English">English</a>		
+* <a href="cv/Véliz, Fernando - CV.pdf#" class="download" title="Castellano">Castellano</a>		
+* <a href="cv/Veliz, Fernando - CV (Eng).pdf" class="download" title="English">English</a>		

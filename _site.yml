@@ -1,13 +1,13 @@
-name: "Fernando Véliz"                                # CHANGE HERE 
+name: "Fernando Véliz"                                
 output_dir: "."
 navbar:
-  title: "Fernando Véliz"                             # CHANGE HERE 
+  title: "Fernando Véliz"                             
   type: inverse
   left:
-    - text: "Home"
+    - text: "Porfolio"
       icon: fa-home
       href: index.html
-    - text: "About"
+    - text: "Sobre mí"
       icon: fa-user 
       href: about.html
     - text: "CV"
@@ -15,12 +15,17 @@ navbar:
       href: cv.html
 
   right:
-    - text: "Contacto"
-      icon: fa-envelope-o
-      href: mailto:fveliz86@gmail.com                    # CHANGE HERE 
     - text: "GitHub"
       icon: fa-github
-      href: https://github.com/fveliz86/ds       # CHANGE HERE 
+      href: https://github.com/fveliz86/ds      
+    - text: "LinkedIn"
+      icon: fa-linkedin
+      href: linkedin.html
+    - text: "Contacto"
+      icon: fa-envelope-o
+      href: mailto:fveliz86@gmail.com                    
+      
+      
 output:
   html_document:
     theme: cosmo

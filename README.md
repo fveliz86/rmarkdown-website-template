@@ -1,3 +1,10 @@
+# Portfolio
+
+Este repositorio alberga una selección de los proyectos de ciencia de datos en los que trabajé. 
+Para una versión web más amigable, por favor visitar <a href="https://www.linkedin.com/in/fernando-veliz/?locale=en_US">English</a>
+
+
+
 # Make your website with R Markdown in minutes
 
 This is a template (and tutorial) for creating your website with R Markdown in minutes.
